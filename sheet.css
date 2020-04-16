@@ -1,0 +1,13 @@
+#tile-container {
+    text-align: center;   
+}
+.tiles {
+    float: left;
+    height: 40px;
+    width: 6%;
+    border: 1px solid gray;
+}
+
+.tiles:hover {
+    background-color: gray;
+}
